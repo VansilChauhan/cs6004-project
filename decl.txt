@@ -1,0 +1,7 @@
+We took help of AI for implementing following:-
+1. script.sh
+2. basic testcases
+3. Application Arguments boilerplate code
+4. Some initial soot specific scaffoldings
+5. some Soot API references
+6. clarification in understanding of optimization when stuck conceptually
